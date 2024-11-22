@@ -13,3 +13,4 @@
 
 // Solution
 
+let character;
