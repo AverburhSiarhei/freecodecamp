@@ -4,3 +4,7 @@
 // Note that strings are immutable, which means once they are created, they cannot be changed. The variable can still be reassigned another value.
 //
 //     Change your "Hello" string to use single quotes.
+
+// Solution
+
+let character = 'Hello';
